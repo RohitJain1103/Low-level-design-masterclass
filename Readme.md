@@ -8,12 +8,13 @@ This repository contains structured resources for mastering **Low-Level Design (
 - **Design Patterns** – Factory, Singleton, Observer, Strategy, and more  
 - **System Designs** – Real-world LLD problems with code implementations  
 
-## 📂 Repository Structure  
-- [WIP] `oop-concepts/` – Fundamentals of Object-Oriented Programming  
-- `solid-principles/` – Detailed explanations and examples of SOLID principles  
-- [WIP] `design-patterns/` – Common design patterns with real-world use cases  
+## 📂 Repository Structure
+- [WIP] `oop-concepts/` – Fundamentals of Object-Oriented Programming
+- `solid-principles/` – Detailed explanations and examples of SOLID principles
+- [WIP] `design-patterns/` – Common design patterns with real-world use cases
 - `design-problems/` – System design problems with solutions
   - `elevator-system/` – Elevator system design with code implementation
-  - `parking-lot-system/` – Parking lot system design with code implementation  
+  - `parking-lot-system/` – Parking lot system design with code implementation
+- **[`system-design-roadmap/`](system-design-roadmap/README.md)** – Beginner-friendly 0-to-Hero system design roadmap with curated resources
 
-🔹 **Contributions Welcome!** Feel free to raise issues and submit PRs. 🚀  
+🔹 **Contributions Welcome!** Feel free to raise issues and submit PRs. 🚀
